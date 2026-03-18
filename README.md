@@ -83,29 +83,29 @@
                         Planit Frontend Architecture
 
     ┌──────────────┐     ┌──────────────────┐     ┌──────────────────────┐
-    │   Browser    │     │   React Pages    │     │   Right Sidebar      │
-    │              │────>│   (14개)          │     │   - Mini Calendar    │
-    │              │     │                  │     │   - Weather Widget   │
+    │              │     │                  │     │     Right Sidebar    │
+    │   Browser    │────>│   React Pages    │     │   - Mini Calendar    │
+    │              │     │      (14개)      │     │   - Weather Widget   │
     └──────────────┘     └────────┬─────────┘     └──────────────────────┘
                                   │
                                   ▼
                     ┌──────────────────────────┐
-                    │    Custom Hooks (9개)     │
-                    │  useTrip (19 functions)   │
-                    │  useAuth, useReview ...   │
+                    │    Custom Hooks (9개)    │
+                    │  useTrip (19 functions)  │
+                    │  useAuth, useReview ...  │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │    Axios Instance         │
-                    │  Request: JWT 자동 주입    │
-                    │  Response: 401 자동 처리   │
+                    │    Axios Instance        │
+                    │  Request: JWT 자동 주입   │
+                    │  Response: 401 자동 처리  │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │    FastAPI Backend        │
-                    │    (8 API Routers)        │
+                    │    FastAPI Backend       │
+                    │    (8 API Routers)       │
                     └────────────┬─────────────┘
                                  │
                     ┌────────────┼────────────┐
@@ -236,11 +236,6 @@ uvicorn app.main:app --reload --port 8000
 
 ---
 
-## 프로젝트 기간
-
-**2025.09.29 ~ 2025.10.24 (3주)**
-
----
 
 본 저장소는 포트폴리오 요약용 README입니다.
 전체 프로젝트 코드는 [팀 GitHub](https://github.com/NaYoung-ll/planit-projectmain)에서 확인 가능합니다.
