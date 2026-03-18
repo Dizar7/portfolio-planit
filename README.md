@@ -10,7 +10,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-팀 GitHub: (https://github.com/NaYoung-Il/planit-projectmain.git)
+팀 GitHub: (https://github.com/NaYoung-Il/planit-projectmain)
 </div>
 
 ---
