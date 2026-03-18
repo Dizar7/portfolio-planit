@@ -44,7 +44,7 @@
 
 ## 핵심 기능
 
-<img src="./스크린샷 2026-03-18 210815.png" width="800" alt="Planit 3단 대시보드 실행 화면">
+<img width="1024" height="503" alt="Planit 3단 대시보드 실행 화면" src="https://github.com/user-attachments/assets/fed557c5-090c-4d95-80ac-7bbaa801f86f" />
 
 ### 1) 3단 대시보드 레이아웃
 
