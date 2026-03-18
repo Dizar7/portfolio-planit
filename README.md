@@ -237,4 +237,4 @@ uvicorn app.main:app --reload --port 8000
 
 
 본 저장소는 포트폴리오 요약용 README입니다.
-전체 프로젝트 코드는 [팀 GitHub](https://github.com/NaYoung-ll/planit-projectmain)에서 확인 가능합니다.
+전체 프로젝트 코드는 [팀 GitHub](https://github.com/NaYoung-Il/planit-projectmain.git)에서 확인 가능합니다.
